@@ -1,0 +1,7 @@
+gunicorn
+flask
+tensorflow
+base64
+numpy
+flask_cors
+PIL
